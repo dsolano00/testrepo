@@ -2,4 +2,4 @@
 
 ##Editing the file
 
-Its a marfown file in this repository.
+Its a markown file in this repository.
